@@ -10,6 +10,11 @@ Fique á vontade para incluir links úteis e imagens de erros e possíveis corre
   * Veja abaixo imagens com alguns comandos do Git:
 
 ![Imagem de código Git](/images/image1.png "Imagem 1")
+![Imagem de código Git](/images/image2.png "Imagem 1")
+![Imagem de código Git](/images/image3.png "Imagem 1")
+
+
+
   
   
 
