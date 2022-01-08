@@ -1,7 +1,9 @@
 # Desafio de Projeto Git/Github da DIO
 
 
-Repositório criado para desafio de projeto Dio
+
+Repositório com o objetivo de compartilhar conhecimento de Git e GitHub
+Fique á vontade para incluir links úteis e imagens de erros e possíveis correções!
 
 
 ## Links Úteis 
